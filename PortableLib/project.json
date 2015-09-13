@@ -1,0 +1,11 @@
+﻿{
+
+
+  "frameworks": {
+    "net45+win+wpa81": {
+      "frameworkAssemblies": {
+        "System.Runtime": "4.0.0.0"
+      }
+    }
+  }
+}
